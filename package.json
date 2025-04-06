@@ -1,0 +1,9 @@
+{
+  "name": "vercel-search-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "uuid": "^9.0.0"
+  }
+}
